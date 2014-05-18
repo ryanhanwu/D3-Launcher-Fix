@@ -16,6 +16,4 @@ Hope it can solve your problem.
 
 If you think this is useful, you can buy me a beer.
 
-<script src="https://www.paypalobjects.com/js/external/paypal-button.min.js?merchant=flyworld@gmail.com" 
-    data-button="donate"
-></script>
+<a href='https://pledgie.com/campaigns/25370'><img alt='Click here to lend your support to: D3 Fix and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/25370.png?skin_name=chrome' border='0' ></a>
